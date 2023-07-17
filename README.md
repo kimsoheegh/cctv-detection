@@ -1,7 +1,7 @@
 # CCTV Detection
 ![image](https://github.com/kimsoheegh/cctv-detection/assets/91236577/b6abc81b-4161-43d6-a9f2-ae6bbe651f04)
 
-### 목적
+## :mag:목적
 현재 개발된 번호판을 이용한 차량 추적 모델은 빠르게 달리는 
 자동차에서 번호판의 작은 숫자를 인식하기가 매우 어렵다는 문제점이 있고 그 이유 때문에
 모델 개발에 들어가는 인력과, 시간 등의 비용이 상당하는 단점이 있다. 따라서 차량을
