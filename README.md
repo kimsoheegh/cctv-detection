@@ -1,5 +1,5 @@
 # CCTV Detection
-![image](https://github.com/kimsoheegh/cctv-detection/assets/91236577/a06b89a0-aee0-4896-8124-83bf5660c96f)
+![image](https://github.com/kimsoheegh/cctv-detection/assets/91236577/b6abc81b-4161-43d6-a9f2-ae6bbe651f04)
 
 ### 목적
 현재 개발된 번호판을 이용한 차량 추적 모델은 빠르게 달리는 
