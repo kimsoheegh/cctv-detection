@@ -1,4 +1,4 @@
-# CCTV Detection
+# CCTV 차량 추적 모델
 ![image](https://github.com/kimsoheegh/cctv-detection/assets/91236577/c797092d-70f4-43f6-81cd-9043ffcd991f)
 
 ## :mag:목적
